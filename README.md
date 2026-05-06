@@ -42,8 +42,8 @@ It allows users to upload CSV or Excel files and automatically generate a first-
 🔗 **Repository:**  
 [maia-data-analysis-app](https://github.com/miguelmaiadasilva/maia-data-analysis-app)
 
-🔗 **Live Demo:**  
-(https://maia-ai-analyst.streamlit.app)](https://maia-app.streamlit.app/)
+🔗 **Live Demo:** 
+[M.A.I.A. App](https://maia-app.streamlit.app/)
 
 ---
 
