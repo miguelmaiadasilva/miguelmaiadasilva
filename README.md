@@ -20,7 +20,7 @@ I am currently focused on building a strong foundation in:
 - Business reporting
 - Data quality and profiling
 
-My goal is to start my IT career as a **Data Analyst** and progressively evolve towards **Data Engineering**.
+I am focused on building my career in Data Analysis, combining business experience with technical skills in Python, SQL, Power BI and data visualization. Long term, I aim to evolve towards Data Engineering.
 
 ---
 
@@ -33,33 +33,19 @@ It allows users to upload CSV or Excel files and automatically generate a first-
 
 #### Key features
 
-- CSV and Excel upload
-- Support for Excel files with multiple sheets
-- Automatic separator detection for CSV files
-- Encoding fallback for robust file reading
-- Initial dataset validation
-- Executive summary generation
-- Dataset KPIs
-- Missing values detection
-- Zero values detection
-- Duplicate row detection
-- Data quality alerts with severity levels
-- Histograms, boxplots and bar charts
-- Correlation heatmap
-- Automatic insights by column
-- Correlation insights
-- Smart column profiling
-- Automatic visualization recommendations
+- Automated exploratory data analysis for CSV and Excel files
+- Data quality validation with missing values, zeros and duplicates detection
+- Interactive charts, correlation heatmaps and automatic insights
+- Smart column profiling with visualization recommendations
+- Executive summary generation for business-oriented interpretation
 
 🔗 **Repository:**  
 [maia-data-analysis-app](https://github.com/miguelmaiadasilva/maia-data-analysis-app)
 
 🔗 **Live Demo:**  
-[[maia-ai-analyst.streamlit.app](https://maia-ai-analyst.streamlit.app)](https://maia-app.streamlit.app/)
+[maia-app](https://maia-ai-analyst.streamlit.app)](https://maia-app.streamlit.app/)
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
