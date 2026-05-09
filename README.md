@@ -1,6 +1,6 @@
 # Miguel Maia da Silva 👋
 
-## Data Analyst | Computer Engineering Student | SQL • Python • Power BI 
+## 📊 Data Analyst |🎓 Computer Engineering Student | 💻 SQL • Python • Power BI 
 
 **Business-oriented data analyst with a background in hospitality operations, KPI monitoring and decision support.**
 
@@ -70,7 +70,7 @@ It was built to simulate a practical first-step analysis workflow: upload a data
 - Bachelor’s Degree in Computer Engineering — ongoing
 - Bachelor’s Degree in Tourism Management
 
-Currently improving my skills in:
+📊 Currently improving my skills in:
 
 - SQL
 - Python for Data Analysis
