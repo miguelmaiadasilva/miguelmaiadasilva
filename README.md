@@ -1,51 +1,49 @@
-# Hi, I'm Miguel Maia Silva 👋
+# Miguel Maia Silva 👋
 
-🎓 Computer Engineering Student | 🎓 Postgraduated in Data Analysis for Buisness | 📊 Aspiring Data Analyst | 🏨 Front Office Manager  
-Based in Portugal, currently transitioning from hospitality management into the data and technology field.
+## Data Analyst | SQL • Python • Power BI • Excel  
+**Business-oriented data analyst with a background in hospitality operations, KPI monitoring and decision support.**
 
-I combine real-world business experience with growing technical skills in Python, SQL, data analysis and data visualization.  
-My background in hotel operations, customer management, team leadership and marketing gives me a practical understanding of how data can support better decisions in real business environments.
+Currently transitioning from hospitality management into data analytics, combining hands-on business experience with technical skills in data analysis, reporting and visualization.
+
+My professional background has given me strong exposure to operational KPIs, customer behaviour, team coordination, marketing performance and business processes. I use this experience to approach data analysis with a practical mindset: understanding the business problem first, then using data to support better decisions.
 
 ---
 
-## 🚀 Professional Focus
+## 🚀 What I Focus On
 
-I am currently focused on building a strong foundation in:
-
-- Data Analysis
-- Exploratory Data Analysis
-- SQL and relational databases
-- Python for data workflows
-- Data visualization such as PowerBI
-- Business reporting
-- Data quality and profiling
+- Analysing business and operational data
+- Building dashboards and reports for decision support
+- Cleaning, profiling and transforming datasets
+- Exploring data to identify trends, patterns and anomalies
+- Communicating insights clearly to business users
+- Developing practical data tools and analytics projects
 
 ---
 
 ## ⭐ Featured Project
 
-### M.A.I.A. — Miguel Artificial Intelligence Analyst
+### M.A.I.A. — Miguel Artificial Intelligence Analyst  
+**Automated Data Analysis App | Python • Streamlit • pandas**
 
-M.A.I.A. is a Streamlit application for automatic exploratory data analysis.  
-It allows users to upload CSV or Excel files and automatically generate a first-level analysis of the dataset.
+M.A.I.A. is an interactive web application that helps users quickly understand CSV and Excel datasets through automated exploratory data analysis, data quality checks, visualizations and business-oriented insights.
 
-#### Key features
+It was built to simulate a practical first-step analysis workflow: upload a dataset, assess data quality, explore key patterns and generate an executive summary.
 
-- Automated exploratory data analysis for CSV and Excel files
-- Data quality validation with missing values, zeros and duplicates detection
-- Interactive charts, correlation heatmaps and automatic insights
-- Smart column profiling with visualization recommendations
-- Executive summary generation for business-oriented interpretation
+**Main features:**
 
-🔗 **Repository:**  
-[maia-data-analysis-app](https://github.com/miguelmaiadasilva/maia-data-analysis-app)
+- Upload and analyse CSV or Excel files
+- Automated exploratory data analysis
+- Data quality checks for missing values, zeros and duplicates
+- Smart column profiling and automatic chart recommendations
+- Interactive visualizations and correlation analysis
+- Executive summary with business-oriented insights
 
-🔗 **Live Demo:** 
-[M.A.I.A. App](https://maia-app.streamlit.app/)
+🔗 **Repository:** [maia-data-analysis-app](https://github.com/miguelmaiadasilva/maia-data-analysis-app)  
+🚀 **Live Demo:** [M.A.I.A. App](https://maia-app.streamlit.app/)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,34 +52,46 @@ It allows users to upload CSV or Excel files and automatically generate a first-
 
 ---
 
-## 💼 Professional Background
+## 📊 Data Skills
 
-Background in hospitality operations and management, with experience in KPI monitoring, customer operations, team coordination and business support. Developed a strong understanding of operational workflows, decision-making and performance analysis in fast-paced environments.
----
+- Exploratory Data Analysis
+- Data Cleaning and Profiling
+- Data Visualization
+- Business Intelligence
+- KPI Analysis
+- Forecasting
+- Reporting
+- Data Quality Validation
+- Relational Databases
+- Data Engineering Concepts
 
-## 📚 Currently Learning
+## 🎓 Education & Continuous Learning
 
-- Python for data analysis
-- SQL and relational databases
-- Statistics for data analysis
-- Data visualization
+- Postgraduate Program in Data Analysis for Business
+- Bachelor’s Degree in Computer Engineering — ongoing
+- Bachelor’s Degree in Tourism Management
+
+Currently improving my skills in:
+
+- SQL
+- Python for Data Analysis
+- Power BI dashboards
+- Statistics for Data Analysis
 - Data Engineering fundamentals
 - Business-oriented analytics
- 
+
 ---
 
 ## 🌍 Languages
 
 - Portuguese — Native
-- English — Professional working proficiency
-- Spanish - Intermediate
-- French - Basic
-- German - Basic
+- English — Professional Working Proficiency
+- Spanish — Intermediate
+- French — Basic
+- German — Basic
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/miguelmaiadasilva/
-
----
+[LinkedIn](https://www.linkedin.com/in/miguelmaiadasilva/)
