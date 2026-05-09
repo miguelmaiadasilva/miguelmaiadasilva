@@ -1,11 +1,10 @@
 # Miguel Maia Silva 👋
 
-## Data Analyst | SQL • Python • Power BI 
+## Data Analyst | Computer Engineering Student | SQL • Python • Power BI 
+
 **Business-oriented data analyst with a background in hospitality operations, KPI monitoring and decision support.**
 
-Currently transitioning from hospitality management into data analytics, combining hands-on business experience with technical skills in data analysis, reporting and visualization.
-
-My professional background has given me strong exposure to operational KPIs, customer behaviour, team coordination, marketing performance and business processes. I use this experience to approach data analysis with a practical mindset: understanding the business problem first, then using data to support better decisions.
+Currently studying Computer Engineering and building practical data projects focused on analysis, reporting and business insights.
 
 ---
 
