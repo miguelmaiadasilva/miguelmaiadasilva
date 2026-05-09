@@ -20,8 +20,6 @@ I am currently focused on building a strong foundation in:
 - Business reporting
 - Data quality and profiling
 
-I am focused on building my career in Data Analysis, combining business experience with technical skills in Python, SQL, Power BI and data visualization. Long term, I aim to evolve towards Data Engineering.
-
 ---
 
 ## ⭐ Featured Project
@@ -49,56 +47,16 @@ It allows users to upload CSV or Excel files and automatically generate a first-
 
 ## 🛠️ Tech Stack
 
-### Data Analysis & Business Intelligence
-
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-025E8C?style=for-the-badge)
-![KPIs](https://img.shields.io/badge/KPIs-4B5563?style=for-the-badge)
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-6B7280?style=for-the-badge)
-![Data Transformation](https://img.shields.io/badge/Data_Transformation-374151?style=for-the-badge)
-
-### Visualization & Analytics
-
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-2563EB?style=for-the-badge)
-![Exploratory Data Analysis](https://img.shields.io/badge/EDA-1D4ED8?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
-![Forecasting](https://img.shields.io/badge/Forecasting-7C3AED?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time_Series-5B21B6?style=for-the-badge)
-
-### Tools & Applications
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-F97316?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 💼 Professional Background
 
-Before transitioning into IT, I built solid experience in hospitality operations, working in Front Office and management roles.
-
-This background helped me develop:
-
-- Operational problem-solving
-- Team coordination
-- Customer-focused communication
-- Business process awareness
-- Reporting and administrative organization
-- Attention to data accuracy
-- Decision-making under pressure
-
-I see this as an advantage in Data Analysis, because I understand how business teams operate and how data can be used to improve decisions.
-
+Background in hospitality operations and management, with experience in KPI monitoring, customer operations, team coordination and business support. Developed a strong understanding of operational workflows, decision-making and performance analysis in fast-paced environments.
 ---
 
 ## 📚 Currently Learning
@@ -109,15 +67,7 @@ I see this as an advantage in Data Analysis, because I understand how business t
 - Data visualization
 - Data Engineering fundamentals
 - Business-oriented analytics
-
----
-
-## 🎯 Career Goal
-
-I am looking to enter the technology sector through a junior Data Analyst role, where I can combine my business background with technical skills to support data-driven decision-making.
-
-Long term, I aim to grow into Data Engineering, working with data pipelines, databases and scalable data systems.
-
+ 
 ---
 
 ## 🌍 Languages
