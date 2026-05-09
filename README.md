@@ -1,6 +1,6 @@
 # Miguel Maia Silva 👋
 
-## Data Analyst | SQL • Python • Power BI • Excel  
+## Data Analyst | SQL • Python • Power BI 
 **Business-oriented data analyst with a background in hospitality operations, KPI monitoring and decision support.**
 
 Currently transitioning from hospitality management into data analytics, combining hands-on business experience with technical skills in data analysis, reporting and visualization.
