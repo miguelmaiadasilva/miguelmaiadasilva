@@ -1,4 +1,4 @@
-# Miguel Maia Silva 👋
+# Miguel Maia da Silva 👋
 
 ## Data Analyst | Computer Engineering Student | SQL • Python • Power BI 
 
