@@ -70,15 +70,8 @@ It was built to simulate a practical first-step analysis workflow: upload a data
 - Bachelor’s Degree in Computer Engineering — ongoing
 - Bachelor’s Degree in Tourism Management
 
-📊 Currently improving my skills in:
-
-- SQL
-- Python for Data Analysis
-- Power BI dashboards
-- Statistics for Data Analysis
-- Data Engineering fundamentals
-- Business-oriented analytics
-
+📊 I am continuously improving my technical and analytical skills through academic work, personal projects and hands-on practice.
+  
 ---
 
 ## 🌍 Languages
