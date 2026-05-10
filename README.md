@@ -19,14 +19,29 @@ Currently studying Computer Engineering and building practical data projects foc
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
-### M.A.I.A. — Miguel Artificial Intelligence Analyst  
+### 📊 Hotel Booking Analytics Dashboard  
+**Business Intelligence Dashboard | SQL • Power BI • DAX**
+
+End-to-end Business Intelligence project analysing hotel booking performance, cancellation risk, revenue trends and guest segmentation.
+
+- Prepared, cleaned and validated booking data using SQL
+- Built a star schema data model in Power BI
+- Created DAX measures for KPIs such as bookings, cancellation rate, revenue, ADR and guest behaviour
+- Designed dashboard pages for executive overview, cancellation analysis, revenue analytics and guest segmentation
+- Developed business insights and recommendations for pricing, cancellation monitoring and operational performance
+
+🔗 **Repository:** [hotel-booking-analytics-dashboard](https://github.com/miguelmaiadasilva/hotel-booking-analytics-dashboard)
+
+---
+
+### 💻 M.A.I.A. — Miguel Artificial Intelligence Analyst  
 **Automated Data Analysis App | Python • Streamlit • pandas**
 
-M.A.I.A. is an interactive web application that helps users quickly understand CSV and Excel datasets through automated exploratory data analysis, data quality checks, visualizations and business-oriented insights.
+Interactive web application that helps users quickly understand CSV and Excel datasets through automated exploratory data analysis, data quality checks, visualizations and business-oriented insights.
 
-It was built to simulate a practical first-step analysis workflow: upload a dataset, assess data quality, explore key patterns and generate an executive summary.
+It simulates a practical first-step analysis workflow: upload a dataset, assess data quality, explore key patterns and generate an executive summary.
 
 **Main features:**
 
@@ -39,6 +54,7 @@ It was built to simulate a practical first-step analysis workflow: upload a data
 
 🔗 **Repository:** [maia-data-analysis-app](https://github.com/miguelmaiadasilva/maia-data-analysis-app)  
 🚀 **Live Demo:** [M.A.I.A. App](https://maia-app.streamlit.app/)
+
 
 ---
 
